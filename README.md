@@ -1,3 +1,5 @@
 # Charme Acessórios
 
-Site completo com fotos, vídeo e arquivos estáticos para publicação.
+Versão completa da landing page, com fotos, logo e vídeo incluídos.
+
+Abra `index.html` para visualizar o site.
